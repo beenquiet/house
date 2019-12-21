@@ -14,7 +14,4 @@ const actionObj={
     num:1
 }
 store.dispatch(actionObj)
-store.dispatch(actionObj)
-store.dispatch(actionObj)
-store.dispatch(actionObj)
 console.log('state',store.getState())
